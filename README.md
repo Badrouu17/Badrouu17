@@ -1,6 +1,7 @@
-### Technologies I use and love
+### Technologies I use and love:
+
 [<img align="left" alt="HTML5" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/1_igdpyg.png" />][bd]
-[<img align="left" alt="CSS3" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596635991/2_nbn2gl.png" />][bd]
+[<img align="left" alt="CSS3" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596636383/2_1_dtm2kp.png" />][bd]
 [<img align="left" alt="TAILWINDCSS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632548/4_anocis.png" />][bd]
 [<img align="left" alt="SASS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632551/5_whl75o.png" />][bd]
 [<img align="left" alt="JAVASCRIPT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632555/6_eu3ypw.png" />][bd]
