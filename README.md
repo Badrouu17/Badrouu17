@@ -1,7 +1,6 @@
 ### Technologies I use and love
 [<img align="left" alt="HTML5" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/1_igdpyg.png" />][bd]
-[<img align="left" alt="CSS3" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596634985/css-3-logo_evljvz.png" />][bd]
-[<img align="left" alt="BOOTSTRAP4" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632549/3_fpbslm.png" />][bd]
+[<img align="left" alt="CSS3" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596635991/2_nbn2gl.png" />][bd]
 [<img align="left" alt="TAILWINDCSS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632548/4_anocis.png" />][bd]
 [<img align="left" alt="SASS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632551/5_whl75o.png" />][bd]
 [<img align="left" alt="JAVASCRIPT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632555/6_eu3ypw.png" />][bd]
@@ -13,10 +12,9 @@
 [<img align="left" alt="MYSQL" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/12_ah23wr.png" />][bd]
 [<img align="left" alt="GO" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/15_gggank.png" />][bd]
 [<img align="left" alt="POSTGRESQL" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/16_ijfgub.png" />][bd]
+[<img align="left" alt="TYPESCRIPT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/13_ujrcg8.png" />][bd]
 [<img align="left" alt="REACTNATIVE" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/14_v6reie.png" />][bd]
 [<img align="left" alt="ELECTRONJS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596633154/18_vqdjug.png" />][bd]
-[<img align="left" alt="TYPESCRIPT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/13_ujrcg8.png" />][bd]
-[<img align="left" alt="JAVA" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632563/17_k6f8t6.png" />][bd]
 <br />
 
 [bd]: https://badreddin-laabed.me/
