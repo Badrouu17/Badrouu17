@@ -1,7 +1,7 @@
-## Technologies I use and love :
+### Technologies I use and love
 
 [<img align="HTML5" alt="Visual Studio Code" width="43px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/1_igdpyg.png" />][bd]
-[<img align="CSS3" alt="Visual Studio Code" width="43px" src="https://res.cloudinary.com/batn05000/image/upload/v1596634764/222_nvtmdy.png" />][bd]
+[<img align="CSS3" alt="Visual Studio Code" width="43px" src="https://res.cloudinary.com/batn05000/image/upload/v1596634985/css-3-logo_evljvz.png" />][bd]
 [<img align="BOOTSTRAP4" alt="Visual Studio Code" width="43px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632549/3_fpbslm.png" />][bd]
 [<img align="TAILWINDCSS" alt="Visual Studio Code" width="43px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632548/4_anocis.png" />][bd]
 [<img align="SASS" alt="Visual Studio Code" width="43px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632551/5_whl75o.png" />][bd]
