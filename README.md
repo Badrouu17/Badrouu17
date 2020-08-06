@@ -1,4 +1,5 @@
-<img align="center" alt="intro" src="https://res.cloudinary.com/batn05000/image/upload/v1596714699/111_htyq0n.png" />
+<img align="left" alt="intro" src="https://res.cloudinary.com/batn05000/image/upload/v1596714699/111_htyq0n.png" />
+
 [<img align="left" alt="HTML5" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/1_igdpyg.png" />][html]
 [<img align="left" alt="CSS3" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596636383/2_1_dtm2kp.png" />][css]
 [<img align="left" alt="TAILWINDCSS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632548/4_anocis.png" />][tw]
