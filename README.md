@@ -7,7 +7,6 @@
 [<img align="left" alt="REDUX" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632560/8_up0o6l.png" />][redux]
 [<img align="left" alt="NODEJS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632554/9_hazfik.png" />][node]
 [<img align="left" alt="MONGODB" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632551/10_gcntvz.png" />][mongodb]
-[<img align="left" alt="PYTHON" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632555/11_zvek31.png" />][py]
 [<img align="left" alt="MYSQL" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/12_ah23wr.png" />][mysql]
 [<img align="left" alt="GO" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/15_gggank.png" />][go]
 [<img align="left" alt="POSTGRESQL" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/16_ijfgub.png" />][postgres]
@@ -25,7 +24,6 @@
 [redux]: https://github.com/reduxjs/redux
 [node]: https://github.com/nodejs/node
 [mongodb]: https://github.com/mongodb/mongo
-[py]: https://github.com/geekcomputers/Python
 [mysql]: https://github.com/twitter-forks/mysql
 [go]: https://github.com/golang/go
 [postgres]: https://github.com/ANXS/postgresql
