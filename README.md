@@ -1,10 +1,7 @@
-[<img align="left" alt="HTML5" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632544/1_igdpyg.png" />][html]
-[<img align="left" alt="CSS3" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596636383/2_1_dtm2kp.png" />][css]
 [<img align="left" alt="TAILWINDCSS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632548/4_anocis.png" />][tw]
 [<img align="left" alt="SASS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632551/5_whl75o.png" />][sass]
 [<img align="left" alt="JAVASCRIPT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632555/6_eu3ypw.png" />][js]
 [<img align="left" alt="REACT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632550/7_hwzqqi.png" />][react]
-[<img align="left" alt="REDUX" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632560/8_up0o6l.png" />][redux]
 [<img align="left" alt="NODEJS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632554/9_hazfik.png" />][node]
 [<img align="left" alt="MONGODB" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632551/10_gcntvz.png" />][mongodb]
 [<img align="left" alt="MYSQL" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/12_ah23wr.png" />][mysql]
@@ -14,14 +11,10 @@
 [<img align="left" alt="REACTNATIVE" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/14_v6reie.png" />][rn]
 [<img align="left" alt="ELECTRONJS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596633154/18_vqdjug.png" />][elct]
 <br />
-
-[html]: https://github.com/whatwg/html
-[css]: https://github.com/airbnb/css
 [tw]: https://github.com/tailwindlabs/tailwindcss
 [sass]: https://github.com/sass/sass
 [js]: https://github.com/airbnb/javascript
 [react]: https://github.com/facebook/react
-[redux]: https://github.com/reduxjs/redux
 [node]: https://github.com/nodejs/node
 [mongodb]: https://github.com/mongodb/mongo
 [mysql]: https://github.com/twitter-forks/mysql
