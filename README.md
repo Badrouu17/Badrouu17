@@ -10,7 +10,9 @@
 [<img align="left" alt="TYPESCRIPT" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/13_ujrcg8.png" />][ts]
 [<img align="left" alt="REACTNATIVE" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596632543/14_v6reie.png" />][rn]
 [<img align="left" alt="ELECTRONJS" width="33px" src="https://res.cloudinary.com/batn05000/image/upload/v1596633154/18_vqdjug.png" />][elct]
+
 <br />
+
 [tw]: https://github.com/tailwindlabs/tailwindcss
 [sass]: https://github.com/sass/sass
 [js]: https://github.com/airbnb/javascript
